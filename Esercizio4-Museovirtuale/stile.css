@@ -4,8 +4,7 @@ header {
 }
 main {
     background-color: #d8d898;
-    align-items: center;
-    text-align: center;
+    
 }
 footer {
     background-color: #c4c460;
@@ -17,7 +16,7 @@ img {
     border: 5px solid black;
     padding: 0px;
     margin: 5px;
-    align-items: center;
+    
 }
 p {
     font-style: normal;
@@ -38,4 +37,13 @@ a {
 }
 a:hover {
     color:#4e009c
+}
+.franco{
+    display:flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.beatles{
+    display:grid;
+    
 }
