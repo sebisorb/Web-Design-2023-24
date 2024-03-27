@@ -1,0 +1,47 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+#image {
+    max-width:100%;
+    height: auto;
+    align-items: center;
+    border: 5px solid black;
+}
+body {
+    background-color: black;
+    align-items: center;
+    padding:20px;
+}
+main {
+    background-color: #fdfdf1;
+    padding: 20px;
+}
+#img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+figure {
+    padding: 50px;
+}
+.fintofooter {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+#tribute-link {
+    color: rgb(207, 189, 224);
+}
+#tribute-link:hover {
+    color: rgb(255, 255, 255);
+}
+img {
+    display:block;
+}
