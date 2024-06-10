@@ -47,3 +47,8 @@ a:hover {
     display:grid;
     
 }
+.bowie{
+    display:flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
